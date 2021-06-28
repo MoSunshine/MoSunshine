@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoSunshine
-- 👀 I’m interested in Data Sience.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Research
 - 📫 How to reach me moritz.wegener@uni-koeln.de
